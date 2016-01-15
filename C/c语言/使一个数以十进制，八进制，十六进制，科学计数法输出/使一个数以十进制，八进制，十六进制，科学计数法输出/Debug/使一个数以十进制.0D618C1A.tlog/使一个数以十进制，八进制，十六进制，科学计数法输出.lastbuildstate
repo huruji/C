@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|F:\visual studio2013文件\c语言\使一个数以十进制，八进制，十六进制，科学计数法输出\|

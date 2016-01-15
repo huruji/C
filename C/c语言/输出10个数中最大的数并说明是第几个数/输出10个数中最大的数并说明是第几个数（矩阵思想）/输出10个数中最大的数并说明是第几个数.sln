@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "输出10个数中最大的数并说明是第几个数", "输出10个数中最大的数并说明是第几个数\输出10个数中最大的数并说明是第几个数.vcxproj", "{6148E6A4-0194-40F4-BCAE-46C6CBC07133}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6148E6A4-0194-40F4-BCAE-46C6CBC07133}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6148E6A4-0194-40F4-BCAE-46C6CBC07133}.Debug|Win32.Build.0 = Debug|Win32
+		{6148E6A4-0194-40F4-BCAE-46C6CBC07133}.Release|Win32.ActiveCfg = Release|Win32
+		{6148E6A4-0194-40F4-BCAE-46C6CBC07133}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

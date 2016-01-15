@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "习题一求两数的最大公约数与最小公倍数", "习题一求两数的最大公约数与最小公倍数\习题一求两数的最大公约数与最小公倍数.vcxproj", "{10A833AF-0BBF-4773-A196-CE514239F8E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10A833AF-0BBF-4773-A196-CE514239F8E3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{10A833AF-0BBF-4773-A196-CE514239F8E3}.Debug|Win32.Build.0 = Debug|Win32
+		{10A833AF-0BBF-4773-A196-CE514239F8E3}.Release|Win32.ActiveCfg = Release|Win32
+		{10A833AF-0BBF-4773-A196-CE514239F8E3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

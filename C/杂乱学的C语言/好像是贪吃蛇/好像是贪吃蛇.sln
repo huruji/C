@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "好像是贪吃蛇", "好像是贪吃蛇\好像是贪吃蛇.vcxproj", "{E967A14C-845B-4D40-B150-C09B5305E607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E967A14C-845B-4D40-B150-C09B5305E607}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E967A14C-845B-4D40-B150-C09B5305E607}.Debug|Win32.Build.0 = Debug|Win32
+		{E967A14C-845B-4D40-B150-C09B5305E607}.Release|Win32.ActiveCfg = Release|Win32
+		{E967A14C-845B-4D40-B150-C09B5305E607}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

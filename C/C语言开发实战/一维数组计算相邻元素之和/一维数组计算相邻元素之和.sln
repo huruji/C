@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "一维数组计算相邻元素之和", "一维数组计算相邻元素之和\一维数组计算相邻元素之和.vcxproj", "{A62813AB-F4F6-4C2B-9555-54F37F0F8B84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A62813AB-F4F6-4C2B-9555-54F37F0F8B84}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A62813AB-F4F6-4C2B-9555-54F37F0F8B84}.Debug|Win32.Build.0 = Debug|Win32
+		{A62813AB-F4F6-4C2B-9555-54F37F0F8B84}.Release|Win32.ActiveCfg = Release|Win32
+		{A62813AB-F4F6-4C2B-9555-54F37F0F8B84}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

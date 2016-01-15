@@ -1,0 +1,24 @@
+﻿生成启动时间为 2015/10/14 1:23:10。
+     1>项目“F:\visual studio2013文件\杂乱学的C语言\好像是贪吃蛇\好像是贪吃蛇\好像是贪吃蛇.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\安装的大软件\visual studio2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "源.c"
+         源.c
+     1>f:\visual studio2013文件\杂乱学的c语言\好像是贪吃蛇\好像是贪吃蛇\源.c(172): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _kbhit. See online help for details.
+                 f:\安装的大软件\visual studio2013\vc\include\conio.h(133) : 参见“kbhit”的声明
+     1>f:\visual studio2013文件\杂乱学的c语言\好像是贪吃蛇\好像是贪吃蛇\源.c(176): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 f:\安装的大软件\visual studio2013\vc\include\conio.h(132) : 参见“getche”的声明
+     1>f:\visual studio2013文件\杂乱学的c语言\好像是贪吃蛇\好像是贪吃蛇\源.c(200): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+     1>f:\visual studio2013文件\杂乱学的c语言\好像是贪吃蛇\好像是贪吃蛇\源.c(303): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\安装的大软件\visual studio2013\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>f:\visual studio2013文件\杂乱学的c语言\好像是贪吃蛇\好像是贪吃蛇\源.c(324): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 f:\安装的大软件\visual studio2013\vc\include\conio.h(132) : 参见“getche”的声明
+     1>f:\visual studio2013文件\杂乱学的c语言\好像是贪吃蛇\好像是贪吃蛇\源.c(357): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 f:\安装的大软件\visual studio2013\vc\include\conio.h(132) : 参见“getche”的声明
+       Link:
+         F:\安装的大软件\visual studio2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\visual studio2013文件\杂乱学的C语言\好像是贪吃蛇\Debug\好像是贪吃蛇.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\visual studio2013文件\杂乱学的C语言\好像是贪吃蛇\Debug\好像是贪吃蛇.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\visual studio2013文件\杂乱学的C语言\好像是贪吃蛇\Debug\好像是贪吃蛇.lib" /MACHINE:X86 "Debug\源.obj"
+         好像是贪吃蛇.vcxproj -> F:\visual studio2013文件\杂乱学的C语言\好像是贪吃蛇\Debug\好像是贪吃蛇.exe
+     1>已完成生成项目“F:\visual studio2013文件\杂乱学的C语言\好像是贪吃蛇\好像是贪吃蛇\好像是贪吃蛇.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.09

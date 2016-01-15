@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "存放学生成绩数据查询学号即可输出", "存放学生成绩数据查询学号即可输出\存放学生成绩数据查询学号即可输出.vcxproj", "{CAB496D7-8815-4847-A5F2-E7D86BF79E00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAB496D7-8815-4847-A5F2-E7D86BF79E00}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CAB496D7-8815-4847-A5F2-E7D86BF79E00}.Debug|Win32.Build.0 = Debug|Win32
+		{CAB496D7-8815-4847-A5F2-E7D86BF79E00}.Release|Win32.ActiveCfg = Release|Win32
+		{CAB496D7-8815-4847-A5F2-E7D86BF79E00}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

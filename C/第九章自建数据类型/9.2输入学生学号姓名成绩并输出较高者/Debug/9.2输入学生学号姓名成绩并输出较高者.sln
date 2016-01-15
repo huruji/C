@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "9.2输入学生学号姓名成绩并输出较高者", "9.2输入学生学号姓名成绩并输出较高者.exe", "{6A84FCBB-7AD6-4EC7-B252-5AAECAB563D0}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = F:\visual studio2013文件\第九章自建数据类型\9.2输入学生学号姓名成绩并输出较高者\Debug\9.2输入学生学号姓名成绩并输出较高者.exe
+		RemoteMachine = 谢志强
+		StartingDirectory = F:\visual studio2013文件\第九章自建数据类型\9.2输入学生学号姓名成绩并输出较高者\Debug
+		Environment = 默认值
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A84FCBB-7AD6-4EC7-B252-5AAECAB563D0}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

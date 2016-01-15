@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "输入大写字母输出小写字母", "输入大写字母输出小写字母\输入大写字母输出小写字母.vcxproj", "{9254D1AB-7F1E-4334-B2F5-CA046F9EECFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9254D1AB-7F1E-4334-B2F5-CA046F9EECFB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9254D1AB-7F1E-4334-B2F5-CA046F9EECFB}.Debug|Win32.Build.0 = Debug|Win32
+		{9254D1AB-7F1E-4334-B2F5-CA046F9EECFB}.Release|Win32.ActiveCfg = Release|Win32
+		{9254D1AB-7F1E-4334-B2F5-CA046F9EECFB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+﻿生成启动时间为 2015/8/2 12:59:23。
+     1>项目“F:\visual studio2013文件\c语言\例5.4募捐至10万元时结束循环\例5.4募捐至10万元时结束循环\例5.4募捐至10万元时结束循环.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\安装的大软件\visual studio2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "例5.4募捐至10万元时结束循环.c"
+         例5.4募捐至10万元时结束循环.c
+     1>f:\visual studio2013文件\c语言\例5.4募捐至10万元时结束循环\例5.4募捐至10万元时结束循环\例5.4募捐至10万元时结束循环.c(9): error C2143: 语法错误 : 缺少“)”(在“;”的前面)
+     1>f:\visual studio2013文件\c语言\例5.4募捐至10万元时结束循环\例5.4募捐至10万元时结束循环\例5.4募捐至10万元时结束循环.c(9): warning C4552: “<=”: 运算符不起任何作用；应输入带副作用的运算符
+     1>f:\visual studio2013文件\c语言\例5.4募捐至10万元时结束循环\例5.4募捐至10万元时结束循环\例5.4募捐至10万元时结束循环.c(9): error C2059: 语法错误:“)”
+     1>f:\visual studio2013文件\c语言\例5.4募捐至10万元时结束循环\例5.4募捐至10万元时结束循环\例5.4募捐至10万元时结束循环.c(10): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>f:\visual studio2013文件\c语言\例5.4募捐至10万元时结束循环\例5.4募捐至10万元时结束循环\例5.4募捐至10万元时结束循环.c(14): error C2043: 非法 break
+     1>已完成生成项目“F:\visual studio2013文件\c语言\例5.4募捐至10万元时结束循环\例5.4募捐至10万元时结束循环\例5.4募捐至10万元时结束循环.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.13

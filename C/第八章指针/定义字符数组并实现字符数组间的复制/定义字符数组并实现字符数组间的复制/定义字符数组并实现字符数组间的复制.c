@@ -1,0 +1,19 @@
+#include<stdio.h>
+int main()
+{
+	char a[] = "I am a student.", b[20];
+	int i;
+	for (i = 0; *(a + i) != '/0'; i++)
+	{
+		*(b + i) = *(a + i);
+	}
+	*(b + i) = '\0';
+	printf("srting a is:%s\n", a);
+	printf("string b is:");
+	for (i = 0; b[i] != '\0'; i++)
+	{
+		printf("%s", b);
+	}
+	printf("\n");
+	return 0;
+}
